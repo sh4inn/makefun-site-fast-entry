@@ -1,0 +1,5 @@
+makefun-site 1.0.0, make.fun's own reference program, as included in the competition kit.
+
+  source    competition kit's program/generator/vendor/makefun-site/
+  licence   MIT (LICENSE), with upstream notices in NOTICE
+  called    index.js, its build, on each case's input

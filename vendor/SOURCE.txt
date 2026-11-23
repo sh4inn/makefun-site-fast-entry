@@ -1,0 +1,5 @@
+makefun-site 1.0.0, make.fun's own reference program, used as the semantic reference for this optimized entry.
+
+  source    competition kit's program/generator/vendor/makefun-site/
+  licence   MIT (vendor/makefun-site/LICENSE); upstream attributions and notices in vendor/makefun-site/NOTICE
+  called    vendor/makefun-site/index.js, its build, on each case's input
